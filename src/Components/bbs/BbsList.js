@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from "../../util/customAxios";
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Pagination from "react-js-pagination";
